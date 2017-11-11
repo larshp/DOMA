@@ -17,6 +17,13 @@
      <DOMVALUE_L>Z</DOMVALUE_L>
      <DDTEXT>sdf</DDTEXT>
     </DD07V>
+    <DD07V>
+     <DOMNAME>ZDEVICE</DOMNAME>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>A</DOMVALUE_L>
+     <DDTEXT>blah</DDTEXT>
+    </DD07V>    
    </DD07V_TAB>
   </asx:values>
  </asx:abap>
