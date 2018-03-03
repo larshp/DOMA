@@ -6,3 +6,5 @@
 REPORT zdoma.
 
 PARAMETERS: p_ddmass TYPE ddmass-device OBLIGATORY.
+
+WRITE 'hello'.
