@@ -105,7 +105,7 @@
       <item>
        <VAR_NAME>BLAH</VAR_NAME>
        <VINDEX>0001</VINDEX>
-       <SORTLNR>000002</SORTLNR>
+       <SORTLNR>000001</SORTLNR>
       </item>
      </ETPAR_VARI>
     </PARAMETERS>
@@ -218,7 +218,7 @@
       <item>
        <VAR_NAME>BLAH</VAR_NAME>
        <VINDEX>0001</VINDEX>
-       <SORTLNR>000002</SORTLNR>
+       <SORTLNR>000001</SORTLNR>
       </item>
      </ETPAR_VARI>
     </PARAMETERS>
