@@ -19,7 +19,7 @@ CLASS ZCL_DOMA IMPLEMENTATION.
 
     DATA: int TYPE i.
 
-    int = 42.
+    int = 47.
 
   ENDMETHOD.
 ENDCLASS.
