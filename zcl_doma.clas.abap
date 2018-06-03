@@ -18,7 +18,7 @@ CLASS ZCL_DOMA IMPLEMENTATION.
   METHOD method.
 
     DATA: int TYPE i.
-
+* sdfsd
     int = 48.
 
   ENDMETHOD.
